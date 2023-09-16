@@ -1,4 +1,4 @@
 # demo
 This is demo repo
 <br>
-Author - shwetanshu
+Author - shwetanshu singh
